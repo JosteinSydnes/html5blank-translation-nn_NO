@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HTML5 Blank WordPress Theme\n"
+"POT-Creation-Date: 2014-05-19 12:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Oyvind Eikeland <oyvind.eikeland@oktan.no>\n"
+"Language-Team: Oktan Stord | oktanstord.no <oyvind.eikeland@oktan.no>\n"
+"Language: nn_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:10
+msgid "Page not found"
+msgstr "Fann ikkje sida"
+
+#: ../404.php:12
+msgid "Return home?"
+msgstr "Returner heim?"
+
+#: ../archive.php:7
+msgid "Archives"
+msgstr "Arkiv"
+
+#: ../author.php:9
+msgid "Author Archives for "
+msgstr "Forfattar Arkiv for"
+
+#: ../author.php:15
+msgid "About "
+msgstr "Om"
+
+#: ../author.php:42 ../loop.php:22 ../single.php:28
+msgid "Published by"
+msgstr "Publisert av"
+
+#: ../author.php:43 ../loop.php:23 ../single.php:29
+msgid "Leave your thoughts"
+msgstr "Dine tankar om saka"
+
+#: ../author.php:43 ../loop.php:23 ../single.php:29
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: ../author.php:43 ../loop.php:23 ../single.php:29
+msgid "% Comments"
+msgstr "% Kommentarar"
+
+#: ../author.php:62 ../loop.php:39 ../page.php:32 ../single.php:54
+#: ../template-demo.php:32
+msgid "Sorry, nothing to display."
+msgstr "Beklagar, har ingen ting å vise deg."
+
+#: ../category.php:7
+msgid "Categories for "
+msgstr "Kategoriar for"
+
+#: ../comments.php:3
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+"Innlegget er passord-beskytta. Skriv inn passordet for å sjå kommentaren."
+
+#: ../comments.php:18
+msgid "Comments are closed here."
+msgstr "Lukka for kommentarar."
+
+#: ../footer.php:6
+msgid "Powered by"
+msgstr "Drive av"
+
+#: ../functions.php:74
+msgid "Sidebar Menu"
+msgstr "Meny i Sidestolpe"
+
+#: ../functions.php:144
+msgid "Footer Widgets"
+msgstr "Botnfelt for småprogram"
+
+#: ../functions.php:145
+msgid "Area for footer text"
+msgstr "Område for botnfelt tekst."
+
+#: ../functions.php:155
+msgid "Widget Area 2"
+msgstr "Område for småprogram 2"
+
+#: ../functions.php:156
+msgid "Description for this widget-area..."
+msgstr "Skildring av område..."
+
+#: ../functions.php:221
+msgid "View Article"
+msgstr "Les Meir"
+
+#: ../functions.php:274
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">seder:</span>"
+
+#: ../functions.php:277
+msgid "Your comment is awaiting moderation."
+msgstr "Kommentaren blir sjekka av ein moderator snarast."
+
+#: ../functions.php:283
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s i %2$s"
+
+#: ../functions.php:283
+msgid "(Edit)"
+msgstr "(Endre)"
+
+#: ../functions.php:354 ../functions.php:355
+msgid "HTML5 Blank Custom Post"
+msgstr "Eigendefinert innlegg"
+
+#: ../functions.php:356
+msgid "Add New"
+msgstr "Lag Ny"
+
+#: ../functions.php:357
+msgid "Add New HTML5 Blank Custom Post"
+msgstr "Lag nytt eigendefinert innlegg"
+
+#: ../functions.php:358
+msgid "Edit"
+msgstr "Endre"
+
+#: ../functions.php:359
+msgid "Edit HTML5 Blank Custom Post"
+msgstr "Endra eigendefinert innlegg"
+
+#: ../functions.php:360
+msgid "New HTML5 Blank Custom Post"
+msgstr "Nytt eigendefinert innlegg"
+
+#: ../functions.php:361 ../functions.php:362
+msgid "View HTML5 Blank Custom Post"
+msgstr "Sjå eigendefinert innlegg"
+
+#: ../functions.php:363
+msgid "Search HTML5 Blank Custom Post"
+msgstr "Søk eigendefinert innlegg"
+
+#: ../functions.php:364
+msgid "No HTML5 Blank Custom Posts found"
+msgstr "Ingen eigendefinerte innlegg funne"
+
+#: ../functions.php:365
+msgid "No HTML5 Blank Custom Posts found in Trash"
+msgstr "Ingen eigendefinerte innlegg funne i søpplekassa"
+
+#: ../index.php:7
+msgid "Latest Posts"
+msgstr "Siste innlegg"
+
+#: ../search.php:7
+#, php-format
+msgid "%s Search Results for "
+msgstr "%s Søkjeresultat for"
+
+#: ../searchform.php:3
+msgid "To search, type and hit enter."
+msgstr "skriv inn ønska søke ord."
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Søk"
+
+#: ../single.php:34
+msgid "Tags: "
+msgstr "Merkelappar: "
+
+#: ../single.php:36
+msgid "Categorised in: "
+msgstr "Kategorisert i: "
+
+#: ../single.php:38
+msgid "This post was written by "
+msgstr "Artikkelen vart skriven av "
+
+#: ../tag.php:7
+msgid "Tag Archive: "
+msgstr "Arkiv for Merkelappar: "
+
+#~ msgid "Header Menu"
+#~ msgstr "Meny i Toppfelt"
+
+#~ msgid "Extra Menu"
+#~ msgstr "Ekstra Meny"
+
+#~ msgid "Widget Area 1"
+#~ msgstr "Område for småprogram 1"
+
+#~ msgid "%s results for "
+#~ msgstr "%s risultati per "
